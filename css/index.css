@@ -625,22 +625,6 @@ body::after {
   z-index: -2;
   background: url("") no-repeat center/cover;
 }
-body::before {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  position: fixed;
-  height: 100vh;
-  z-index: -1;
-  background-color: rgba(0,0,0,0.9);
-}
-.nightmode body::before {
-  background-color: rgba(0,0,0,0.6);
-}
 .container {
   white-space: normal;
   word-wrap: break-word;
@@ -763,7 +747,7 @@ body::before {
   background-color: #333;
 }
 .header-inner--height {
-  height: 50px !important;
+  height: 40px !important;
 }
 .header-nav {
   position: relative;
@@ -771,7 +755,7 @@ body::before {
   left: 0;
   z-index: 1;
   width: 100%;
-  height: 50px;
+  height: 40px;
   -webkit-transition: -webkit-transform 0.2s ease-out, background-color 0.2s ease;
   -moz-transition: -moz-transform 0.2s ease-out, background-color 0.2s ease;
   -o-transition: -o-transform 0.2s ease-out, background-color 0.2s ease;
@@ -827,7 +811,7 @@ body::before {
 .header-nav-menubtn {
   display: none;
   padding: 0 0.5rem;
-  line-height: 50px;
+  line-height: 40px;
   color: #f5f6f7;
   cursor: pointer;
 }
@@ -869,13 +853,13 @@ body::before {
 .header-nav-menu {
   display: none;
   height: 100%;
-  line-height: 50px;
+  line-height: 40px;
 }
 .header-nav-menu-item {
   float: left;
   position: relative;
   margin: 0 1rem 0 0;
-  height: 50px;
+  height: 40px;
   text-align: center;
   cursor: pointer;
 }
@@ -911,7 +895,7 @@ body::before {
   float: right;
   padding: 0 0.5rem;
   height: 100%;
-  line-height: 50px;
+  line-height: 40px;
   -webkit-box-align: center;
   -moz-box-align: center;
   -o-box-align: center;
@@ -925,17 +909,6 @@ body::before {
   width: 100%;
   height: 100%;
   background: url("https://cdn.jsdelivr.net/gh/masonm0unt/picbed/xueshan2.JPG") no-repeat center/cover;
-}
-.header-banner::before {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.1);
 }
 .header-banner-info {
   position: absolute;
@@ -1211,17 +1184,6 @@ body::before {
   text-align: center;
   color: #f5f6f7;
   background-color: #2d2e30;
-}
-.footer-inner::before {
-  content: '';
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0,0,0,0.9);
 }
 .footer a {
   color: #c20808;
@@ -2308,14 +2270,14 @@ body::before {
   -o-transition: color 0.2s ease;
   -ms-transition: color 0.2s ease;
   transition: color 0.2s ease;
-  -webkit-transform: rotate(-90deg);
-  -moz-transform: rotate(-90deg);
-  -o-transform: rotate(-90deg);
-  -ms-transform: rotate(-90deg);
-  transform: rotate(-90deg);
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
 }
 .back2top__icon:hover {
-  color: #fc6423;
+  color: #8c8a8a;
 }
 .zoomimg-mask {
   position: fixed;
@@ -2825,7 +2787,7 @@ body::before {
   .header-nav-menu {
     overflow: hidden;
     position: absolute;
-    top: 50px;
+    top: 40px;
     right: 0;
     left: 0;
     width: auto;

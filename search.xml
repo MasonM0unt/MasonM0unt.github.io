@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022-01-13-hello-world.html</url>
-    <content><![CDATA[<p>记录一个博客的破壳</p>
-]]></content>
+    <title>避坑指南——修改hexo主题的图片路径问题</title>
+    <url>/2022-01-19-%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BF%AE%E6%94%B9hexo%E4%B8%BB%E9%A2%98%E7%9A%84%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>My First Article</title>
@@ -13,5 +12,11 @@
       <tags>
         <tag>-里程碑 -Studing Record</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022-01-13-hello-world.html</url>
+    <content><![CDATA[<p>记录一个博客的破壳</p>
+]]></content>
   </entry>
 </search>
