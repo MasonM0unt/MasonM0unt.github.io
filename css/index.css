@@ -620,8 +620,10 @@ body::after {
   left: 0;
   width: 100%;
   height: 100%;
+  position: fixed;
+  height: 100vh;
   z-index: -2;
-  background: url("https://cdn.jsdelivr.net/gh/masonm0unt/picbed/background.JPG") no-repeat center/cover;
+  background: url("") no-repeat center/cover;
 }
 body::before {
   content: '';
@@ -631,8 +633,10 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
+  position: fixed;
+  height: 100vh;
   z-index: -1;
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.9);
 }
 .nightmode body::before {
   background-color: rgba(0,0,0,0.6);
@@ -931,7 +935,7 @@ body::before {
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.1);
 }
 .header-banner-info {
   position: absolute;
@@ -1217,7 +1221,7 @@ body::before {
   z-index: -1;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.9);
 }
 .footer a {
   color: #c20808;
@@ -1315,9 +1319,6 @@ body::before {
 .sidebar-toc ol {
   margin: 0;
   padding-left: 1em;
-}
-.sidebar-ov > div + div {
-  border-top: 1px dashed var(--color-gray-300);
 }
 .sidebar-ov-author {
   width: 100%;
@@ -1556,10 +1557,6 @@ body::before {
 .sidebar-ov-state-item__count {
   font-weight: 600;
   color: var(--color-gray-950);
-}
-.sidebar-ov-cc {
-  padding-top: 0.5rem;
-  text-align: center;
 }
 .sidebar-reading {
   overflow: hidden;
@@ -2311,11 +2308,11 @@ body::before {
   -o-transition: color 0.2s ease;
   -ms-transition: color 0.2s ease;
   transition: color 0.2s ease;
-  -webkit-transform: rotate(-45deg);
-  -moz-transform: rotate(-45deg);
-  -o-transform: rotate(-45deg);
-  -ms-transform: rotate(-45deg);
-  transform: rotate(-45deg);
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
 }
 .back2top__icon:hover {
   color: #fc6423;
