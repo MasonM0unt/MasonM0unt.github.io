@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My First Article</title>
-    <url>/2022-01-14-My-First-Article.html</url>
-    <content><![CDATA[]]></content>
-      <tags>
-        <tag>-学习记录</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022-01-13-hello-world.html</url>
     <content><![CDATA[<p>记录一个博客的破壳</p>
