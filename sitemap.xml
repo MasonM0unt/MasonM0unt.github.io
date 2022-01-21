@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://liukaiyu.xyz/2022-01-13-hello-world.html</loc>
+    <loc>http://masonm0unt.github.io/2022-01-13-hello-world.html</loc>
     
     <lastmod>2022-01-21</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://liukaiyu.xyz/2022-01-19-%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BF%AE%E6%94%B9hexo%E4%B8%BB%E9%A2%98%E7%9A%84%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98.html</loc>
+    <loc>http://masonm0unt.github.io/2022-01-19-%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97%E2%80%94%E2%80%94%E4%BF%AE%E6%94%B9hexo%E4%B8%BB%E9%A2%98%E7%9A%84%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98.html</loc>
     
     <lastmod>2022-01-21</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://liukaiyu.xyz/categories/index.html</loc>
+    <loc>http://masonm0unt.github.io/categories/index.html</loc>
     
     <lastmod>2022-01-21</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://liukaiyu.xyz/tags/index.html</loc>
+    <loc>http://masonm0unt.github.io/tags/index.html</loc>
     
     <lastmod>2022-01-21</lastmod>
     
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://liukaiyu.xyz/</loc>
+    <loc>http://masonm0unt.github.io/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -47,21 +47,21 @@
 
   
   <url>
-    <loc>http://liukaiyu.xyz/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <loc>http://masonm0unt.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://liukaiyu.xyz/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
+    <loc>http://masonm0unt.github.io/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://liukaiyu.xyz/tags/%E6%96%B0%E6%89%8B%E5%90%91/</loc>
+    <loc>http://masonm0unt.github.io/tags/%E6%96%B0%E6%89%8B%E5%90%91/</loc>
     <lastmod>2022-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
